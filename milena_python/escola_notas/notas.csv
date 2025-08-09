@@ -1,0 +1,111 @@
+Aluno,Disciplina,Data_Prova,Nota
+Ana,Matemática,2023-01-10,8.5
+Ana,Português,2023-02-10,8.5
+Ana,História,2023-03-10,8.5
+Ana,Física,2023-04-10,8.5
+Ana,Química,2023-05-10,8.5
+Ana,Geografia,2023-06-10,8.5
+Ana,Biologia,2023-07-10,8.5
+Ana,Artes,2023-08-10,8.5
+Ana,Educação Física,2023-09-10,8.5
+Ana,Literatura,2023-10-10,8.5
+Bruno,Matemática,2023-01-12,7.0
+Bruno,Português,2023-02-12,7.0
+Bruno,História,2023-03-12,7.0
+Bruno,Física,2023-04-12,7.0
+Bruno,Química,2023-05-12,7.0
+Bruno,Geografia,2023-06-12,7.0
+Bruno,Biologia,2023-07-12,7.0
+Bruno,Artes,2023-08-12,7.0
+Bruno,Educação Física,2023-09-12,7.0
+Bruno,Literatura,2023-10-12,7.0
+Carla,Matemática,2023-01-15,9.2
+Carla,Português,2023-02-15,9.2
+Carla,História,2023-03-15,9.2
+Carla,Física,2023-04-15,9.2
+Carla,Química,2023-05-15,9.2
+Carla,Geografia,2023-06-15,9.2
+Carla,Biologia,2023-07-15,9.2
+Carla,Artes,2023-08-15,9.2
+Carla,Educação Física,2023-09-15,9.2
+Carla,Literatura,2023-10-15,9.2
+Diego,Matemática,2023-01-18,6.8
+Diego,Português,2023-02-18,6.8
+Diego,História,2023-03-18,6.8
+Diego,Física,2023-04-18,6.8
+Diego,Química,2023-05-18,6.8
+Diego,Geografia,2023-06-18,6.8
+Diego,Biologia,2023-07-18,6.8
+Diego,Artes,2023-08-18,6.8
+Diego,Educação Física,2023-09-18,6.8
+Diego,Literatura,2023-10-18,6.8
+Eva,Matemática,2023-01-20,8.0
+Eva,Português,2023-02-20,8.0
+Eva,História,2023-03-20,8.0
+Eva,Física,2023-04-20,8.0
+Eva,Química,2023-05-20,8.0
+Eva,Geografia,2023-06-20,8.0
+Eva,Biologia,2023-07-20,8.0
+Eva,Artes,2023-08-20,8.0
+Eva,Educação Física,2023-09-20,8.0
+Eva,Literatura,2023-10-20,8.0
+Fernando,Matemática,2023-01-22,7.5
+Fernando,Português,2023-02-22,7.5
+Fernando,História,2023-03-22,7.5
+Fernando,Física,2023-04-22,7.5
+Fernando,Química,2023-05-22,7.5
+Fernando,Geografia,2023-06-22,7.5
+Fernando,Biologia,2023-07-22,7.5
+Fernando,Artes,2023-08-22,7.5
+Fernando,Educação Física,2023-09-22,7.5
+Fernando,Literatura,2023-10-22,7.5
+Giovana,Matemática,2023-01-25,9.0
+Giovana,Português,2023-02-25,9.0
+Giovana,História,2023-03-25,9.0
+Giovana,Física,2023-04-25,9.0
+Giovana,Química,2023-05-25,9.0
+Giovana,Geografia,2023-06-25,9.0
+Giovana,Biologia,2023-07-25,9.0
+Giovana,Artes,2023-08-25,9.0
+Giovana,Educação Física,2023-09-25,9.0
+Giovana,Literatura,2023-10-25,9.0
+Hugo,Matemática,2023-01-28,8.3
+Hugo,Português,2023-02-28,8.3
+Hugo,História,2023-03-28,8.3
+Hugo,Física,2023-04-28,8.3
+Hugo,Química,2023-05-28,8.3
+Hugo,Geografia,2023-06-28,8.3
+Hugo,Biologia,2023-07-28,8.3
+Hugo,Artes,2023-08-28,8.3
+Hugo,Educação Física,2023-09-28,8.3
+Hugo,Literatura,2023-10-28,8.3
+Isabela,Matemática,2023-01-30,6.5
+Isabela,Português,2023-02-30,6.5
+Isabela,História,2023-31-30,6.5
+Isabela,Física,2023-04-30,6.5
+Isabela,Química,2023-05-30,6.5
+Isabela,Geografia,2023-06-30,6.5
+Isabela,Biologia,2023-07-30,6.5
+Isabela,Artes,2023-08-30,6.5
+Isabela,Educação Física,2023-09-30,6.5
+Isabela,Literatura,2023-10-30,6.5
+João,Matemática,2023-01-02,7.9
+João,Português,2023-02-02,7.9
+João,História,2023-03-02,7.9
+João,Física,2023-04-02,7.9
+João,Química,2023-05-02,7.9
+João,Geografia,2023-06-02,7.9
+João,Biologia,2023-07-02,7.9
+João,Artes,2023-08-02,7.9
+João,Educação Física,2023-09-02,7.9
+João,Literatura,2023-10-02,7.9
+Milena,Matemática,2023-01-30,6.5
+Milena,Português,2023-02-30,6.5
+Milena,História,2023-03-30,6.5
+Milena,Física,2023-04-30,6.5
+Milena,Química,2023-05-30,6.0
+Milena,Geografia,2023-06-30,6.5
+Milena,Biologia,2023-07-30,6.5
+Milena,Artes,2023-08-30,6.0
+Milena,Educação Física,2023-09-30,6.5
+Milena,Literatura,2023-10-30,6.0 
